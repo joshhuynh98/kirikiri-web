@@ -67,7 +67,7 @@ const Menu = props => <>
             ))}
           </div>
         </div>
-        
+{/*        
         <br/>
         <div className="menu-heading">
           Content
@@ -106,7 +106,7 @@ const Menu = props => <>
             ))}
           </div>
         </div>
-
+*/}
         <br/>
         <br/>
       </div>
